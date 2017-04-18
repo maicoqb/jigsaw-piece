@@ -14,7 +14,8 @@
         </a>
 
         @foreach ($menu as $item)
-            <a class="sidebar-nav-item {{ $page->getUrl() == $item->getUrl() ? 'active' : '' }}" href="{{ $item->getUrl() }}">
+            <a class="sidebar-nav-item {{ $page->getUrl() == $item->getUrl() ? 'active' : '' }}" 
+                href="{{ $page->site->baseurl }}{{ $item->getUrl() }}">
                 {{ $item->title }}
             </a>
         @endforeach

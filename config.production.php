@@ -1,7 +1,13 @@
 <?php
 
-return [
-    'production' => true,
-    'url' => '//maicoqb.github.io/jigsaw-piece/'
 
-];
+return array_replace_recursive(
+    include './config.php',
+    [
+        'production' => true,
+
+        'site' => [
+            'url' => '//maicoqb.github.io',
+            'baseurl' => '/jigsaw-piece',
+        ]
+    ]);

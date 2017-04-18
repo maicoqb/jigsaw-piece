@@ -1,6 +1,6 @@
 <div class="post">
     <h1 class="post-title">
-        <a href="{{ $post->getUrl() }}">
+        <a href="{{ $page->site->baseurl }}{{ $post->getUrl() }}">
             {{ $post->title }}
         </a>
     </h1>

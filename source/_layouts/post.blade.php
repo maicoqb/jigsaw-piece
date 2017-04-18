@@ -15,7 +15,7 @@
                 @foreach ($related_posts as $related_post)
                 <li>
                     <h3>
-                    <a href="{{ $related_post->getUrl() }}">
+                    <a href="{{ $page->site->baseurl }}{{ $related_post->getUrl() }}">
                         {{ $related_post->title }}
                         <small>{{ $related_post->date_formated() }}</small>
                     </a>

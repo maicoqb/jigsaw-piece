@@ -2,12 +2,12 @@
 
 return array_merge([
     'production' => false,
-    'url' => 'localhost',
 
     'default_perPage' => 1,
 
     'site' => [
-        'baseurl' => '',
+        'url' => 'vagrant.dev',
+        'baseurl' => '/build_local',
         'title' => "Piece",
         'tagline' => 'A Jigsaw Theme',
         'description' => "
@@ -34,7 +34,7 @@ return array_merge([
 
     'project' => [
         'github' => 'https://github.com/maicoqb/jigsaw-piece',
-        'version' => '0.1'
+        'version' => '0.2'
     ],
 
     'collections' => include './config/collections.php',
