@@ -4,8 +4,8 @@ Piece is an adaptation from [Lanyon Poole](http://lanyon.getpoole.com), and as s
 
 > [~~Lanyon~~] Piece is an unassuming [~~[Jekyll](http://jekyllrb.com)~~] [Jigsaw](http://jigsaw.tighten.co) theme that places content first by tucking away navigation in a hidden drawer.
 
-![Piece](source/public/imgs/01.png "Piece Layout")
-![Piece with open sidebar](source/public/imgs/02.png "Piece Layout with Open Sidebar")
+![Piece](source/public/imgs/piece_layout.png "Piece Layout")
+![Piece with open sidebar](source/public/imgs/piece_layout_with_sidebar.png "Piece Layout with Open Sidebar")
 
 
 ## Contents
@@ -34,8 +34,8 @@ Piece theme includes some customizable options on the `<body>` element.
 Piece ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16).
 Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
-![Lanyon with lime theme](source/public/imgs/03.png "Piece Layout Lime")
-![Lanyon with lime theme and open sidebar](source/public/imgs/04.png "Piece Layout Lime with Open Sidebar")
+![Lanyon with lime theme](source/public/imgs/piece_layout_lime.png "Piece Layout Lime")
+![Lanyon with lime theme and open sidebar](source/public/imgs/piece_layout_lime_with_sidebar.png "Piece Layout Lime with Open Sidebar")
 
 There are eight themes available at this time.
 
@@ -55,8 +55,8 @@ Copy any existing theme (they're only a few lines of CSS), rename it, and change
 
 ### Reverse layout
 
-![Piece with reverse layout](source/public/imgs/06.png "Piece Layout Reverse")
-![Piece with reverse layout and open sidebar](source/public/imgs/07.png "Piece Layout Reverse with Open Sidebar")
+![Piece with reverse layout](source/public/imgs/piece_layout_reverse.png "Piece Layout Reverse")
+![Piece with reverse layout and open sidebar](source/public/imgs/piece_layout_reverse_with_sidebar.png "Piece Layout Reverse with Open Sidebar")
 
 Reverse the page orientation with a single class.
 
