@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/maicoqb/jigsaw"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "dev-v1.1-BETA"
+    }
+}
