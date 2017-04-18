@@ -39,7 +39,7 @@ Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
 There are eight themes available at this time.
 
-![Available theme classes](source/public/imgs/05.png "Piece theme classes")
+![Available theme classes](source/public/imgs/base16_classes.png "Piece theme classes")
 
 To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
