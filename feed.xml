@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 
     <title>Piece</title>
-    <link href="//maicoqb.github.iojigsaw-piece/feed.xml" rel="self"/>
-    <link href="//maicoqb.github.iojigsaw-piece/"/>
-    <updated>2017-04-18T00:39:03+00:00</updated>
+    <link href="//maicoqb.github.io/jigsaw-piece/feed.xml" rel="self"/>
+    <link href="//maicoqb.github.io/jigsaw-piece/"/>
+    <updated>2017-04-18T13:42:19+00:00</updated>
     <id>//maicoqb.github.io</id>
     <author>
         <name>Maico Borges</name>
@@ -12,9 +12,9 @@
 
             <entry>
             <title>What&#039;s Jigsaw?</title>
-            <link href="//maicoqb.github.io/blog/2017/04/whats-jigsaw"/>
+            <link href="//maicoqb.github.io/jigsaw-piece/blog/2017/04/whats-jigsaw"/>
             <updated>2017-04-17T00:00:00+00:00</updated>
-            <id>//maicoqb.github.io_jigsaw-piece_whats-jigsaw</id>
+            <id>//maicoqb.github.io_/jigsaw-piece_whats-jigsaw</id>
             <content type="html">&lt;p&gt;&lt;a href=&quot;http://jigsaw.tightenco.co&quot;&gt;Jigsaw&lt;/a&gt; is a new approach on static site building,
 making static content easy whith Laravel&#039;s Blade templating.&lt;/p&gt;
 &lt;blockquote&gt;
