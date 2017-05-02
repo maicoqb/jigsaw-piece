@@ -3,10 +3,10 @@
 return array_merge([
     'production' => false,
 
-    'default_perPage' => 1,
+    'perPage' => 3,
 
     'site' => [
-        'url' => 'vagrant.dev',
+        'url' => '//localhost',
         'baseurl' => '/build_local',
         'title' => "Piece",
         'tagline' => 'A Jigsaw Theme',
@@ -22,8 +22,6 @@ return array_merge([
     ],
 
     'title' => 'Home',
-
-
 
     'author' => [
         'name' => 'Maico Borges',
