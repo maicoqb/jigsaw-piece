@@ -32,7 +32,7 @@ return array_merge([
 
     'project' => [
         'github' => 'https://github.com/maicoqb/jigsaw-piece',
-        'version' => '0.2'
+        'version' => '0.3'
     ],
 
     'collections' => include './config/collections.php',
